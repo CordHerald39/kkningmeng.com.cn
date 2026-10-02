@@ -1,0 +1,61 @@
+{
+  "folder": "14【kkningmeng.com.cn】",
+  "name": "快柠檬",
+  "key": "lemon",
+  "port": 4186,
+  "color": "#31592d",
+  "tag": "QUICK LEMON",
+  "hero": [
+    "快柠檬加速器",
+    "轻装开始，清爽连接。"
+  ],
+  "intro": "从 100 GB 到 600 GB，按月度用量挑选套餐。下载适合设备的客户端，保存订阅并完成首次连接，让每一步都有明确说明。",
+  "prices": [
+    9,
+    18,
+    32
+  ],
+  "traffic": [
+    100,
+    300,
+    600
+  ],
+  "labels": [
+    "鲜柠",
+    "青柠",
+    "满柠"
+  ],
+  "domain": "kkningmeng.com.cn",
+  "authorized": false,
+  "previewPort": 4186,
+  "title": "快柠檬加速器官网 | 套餐价格、客户端下载与教程",
+  "description": "从 100 GB 到 600 GB，按月度用量挑选套餐。下载适合设备的客户端，保存订阅并完成首次连接，让每一步都有明确说明。",
+  "speeds": [
+    100,
+    300,
+    500
+  ],
+  "regions": [
+    {
+      "name": "香港",
+      "count": 4,
+      "role": "近距离日常访问"
+    },
+    {
+      "name": "日本",
+      "count": 4,
+      "role": "东亚内容与流媒体目标"
+    },
+    {
+      "name": "新加坡",
+      "count": 2,
+      "role": "东南亚备用区域"
+    },
+    {
+      "name": "美国",
+      "count": 2,
+      "role": "跨洋访问与流媒体目标"
+    }
+  ],
+  "origin": "https://kkningmeng.com.cn"
+}
